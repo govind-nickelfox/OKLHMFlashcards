@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "flutilities",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Nickelfox/FLUtilities.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a16a0cba058a6f4e2fa62cfdcfd082394f67bd8d"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6b38733fd59caac8b4cbe035bbcc3cdbe0fc5037"
+      }
+    }
+  ],
+  "version" : 2
+}
